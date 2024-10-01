@@ -1,0 +1,9 @@
+# Ignore compiled output
+*.out
+*.o
+*.exe
+*.obj
+
+# Ignore any other build artifacts or temporary files
+*.log
+*.tmp
